@@ -46,3 +46,20 @@
 # print(change([0, 2, 6, 8]))
 
 
+# def dig_pow(n, p):
+#     a = 0
+#     for i in range(len(str(n))):               #num = str(n)
+#                                                # total = sum([int(num[i]) ** (p + i) for i in range(len(num))])
+#                                                # return total / n if (total % n) == 0 else -1
+#         s = (int(str(n)[i])) ** p
+#         p += 1
+#         a += s
+#     k = a / n
+#
+#     if a < n:
+#         return -1
+#     else:
+#         return int(k)
+
+
+

@@ -105,3 +105,5 @@ number_9.sort()  # сортировка по возрастанию
 print(number_9)
 number_9.sort(reverse=True)  # в этом случае сортировка будет по убыванию
 print(number_9)
+
+

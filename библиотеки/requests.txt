@@ -1,0 +1,14 @@
+requests — это библиотека, которая позволяет легко отправлять HTTP-запросы и работать с ответами.
+
+Чтобы установить requests, выполните следующую команду:
+pip install requests
+или
+poetry add requests
+
+Пример запроса:
+
+import requests
+
+response = requests.get('https://api.github.com')
+print(response.status_code)
+print(response.content)

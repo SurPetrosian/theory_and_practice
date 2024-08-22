@@ -113,4 +113,4 @@
 # for guide in guides:
 #     if user_input == guide["pk"]:
 #         print(guide["fields"]["full_name"], 'туров:', guide["fields"]["tours_count"])
-#         print(guide["fields"]["bio"])
+#           print(guide["fields"]["bio"])

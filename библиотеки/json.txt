@@ -35,3 +35,4 @@ json.load(file)
 file = open("example.json", "w")
 data = ["mydata"]
 json.dump(data, file)
+
